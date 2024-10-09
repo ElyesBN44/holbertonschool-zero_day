@@ -1,2 +1,5 @@
+ HEAD
 #!/bin/bash
 echo "Best"
+#!/bin/bash echo echo "Best School"
+update_script
